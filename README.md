@@ -1,5 +1,8 @@
 # RecipeBook
 
+Recipe-Book App worked for udemy.com course: Angular - The Complete Guide (2020 Edition) by MAximilian Schwarzmuller.
+App is hosted on Firebase `https://ng-recipe-book-d8393.web.app/auth`.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
